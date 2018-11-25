@@ -2,13 +2,14 @@
   "name": "nonprofits-sharedfooter",
   "version": "1.0.3",
   "description": "Shared footer for nonprofits.",
-  "main": "dist/shared-footer.js",
+  "main": "src/main.js",
   "scripts": {
     "dev": "webpack --watch --config build/webpack.config.js",
     "build": "webpack --config build/webpack.config.js"
   },
   "files": [
-    "dist"
+    "dist",
+    "src",
   ],
   "author": "The Daily Source",
   "license": "ISC",
