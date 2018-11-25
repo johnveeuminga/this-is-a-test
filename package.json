@@ -9,7 +9,7 @@
   },
   "files": [
     "dist",
-    "src",
+    "src"
   ],
   "author": "The Daily Source",
   "license": "ISC",
