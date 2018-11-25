@@ -5,8 +5,16 @@ Install the package:
 Register the component on your main js file
 ```
   import SharedFooter from 'nonprofits-sharedfooter'
-  
+
   ...
 
   Vue.use(SharedFooter)
 ```
+
+Use the component
+```
+<shared-footer />
+```
+### Options
+Refer first here:
+https://github.com/dailysourceorg/SharedFooterAllSites-FrontEnd-Vue
